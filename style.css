@@ -70,3 +70,34 @@ button {
     border: none;
 }
 
+.two {
+    text-align: center;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: baseline;
+    gap: 64px;
+}
+
+.info {
+    max-width: 200px;
+    font-size: 18px;
+    margin-bottom: 32px;
+}
+
+.info-head {
+    font-size: 36px;
+    font-weight: 800;
+    color: #1F2937;
+    margin: 32px 0px;
+}
+
+.info > img {
+    width: 200px;
+    height: 175px;
+    border: 3px solid blue;
+    border-radius: 10px;
+    margin-bottom: 16px;
+}
