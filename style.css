@@ -127,3 +127,29 @@ button {
     font-size: 18px;
     margin-bottom: 64px
 }
+
+.four {
+    padding: 96px 144px;
+}
+
+.inside {
+    background-color: #3882F6;
+    padding: 64px 128px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.content.heading {
+    font-size: 24px;
+    color: #F9FAF8;
+    font-weight: 700;
+}
+
+.content.para {
+    font-size: 18px;
+    color: #E5E7EB;
+}
+
+.low {
+    border: 2px solid white;
+}
